@@ -1,7 +1,7 @@
 [user]
-    name = Brent
-    username = PuddletownDesign
-    email = puddletowndesign@gmail.com
+    name = Russell
+    username = roosel
+    email = russ.ayres023@gmail.com
 [core]
     excludesfile = ~/.gitignore_global
     editor = "atom -w"
