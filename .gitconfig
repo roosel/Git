@@ -112,6 +112,7 @@
 	lsf = "!git ls-files | grep -i"
 	#############
 	m = merge
+	mf = merge --no-ff
 	mt = mergetool
 	ma = merge --abort
 	mc = merge --continue
