@@ -110,6 +110,7 @@
 	#############
 	ls = ls-files
 	lsf = "!git ls-files | grep -i"
+	lsr = ls-remote
 	#############
 	m = merge
 	mf = merge --no-ff
